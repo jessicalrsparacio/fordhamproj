@@ -40,12 +40,18 @@ _**Demographics of one sample zip-code:**_
 - Mobile home: .11%
 - Boat, RV, Van: .24%
 
-### Airbnb's in Fordham: 
+### Airbnbs in Fordham: 
+
+
+<img src="https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png"></img>
 
 ![Image](https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png)
 
-<iframe src="https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/nycMap.html"> </iframe>
-
 <iframe src="nycMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-    
+ 
+
+  1. Safety (low crime rate)
+2. Transportation (accessibility to & reliability of public transportation, ease of parking)
+3. Attraction/Activities (availability of local attractions and recreational activities such as
+restaurants, parks, etc.)
 
