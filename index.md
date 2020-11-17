@@ -40,5 +40,4 @@ _**Demographics of one sample zip-code:**_
 - Mobile home: .11%
 - Boat, RV, Van: .24%
 
-
-[Link](url) and ![Image](src)
+![Image](https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png)
