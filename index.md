@@ -43,7 +43,7 @@ _**Demographics of one sample zip-code:**_
 ### Airbnbs in Fordham: 
 
 
-<img src="https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png"></img>
+<img src="Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png"></img>
 
 ![Image](https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png)
 
@@ -72,10 +72,10 @@ _**How Fordham fares:**_
 
 _Fordham → Overall Grade: **B**_
 
-1. _Safety:_- C (Higher crime rates than the national average in most major categories,
+1. _Safety:_ C (Higher crime rates than the national average in most major categories,
 excluding robbery.)
 2. _Transportation:_ B+ (Access to public transportation is widely available.)
-3. _Attractions/Activities:) A- (Reviewers describe a wide variety of parks, restaurants,
+3. _Attractions/Activities:_ A- (Reviewers describe a wide variety of parks, restaurants,
 and other local attractions to enjoy.)
 
 
