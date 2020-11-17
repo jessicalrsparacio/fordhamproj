@@ -43,4 +43,5 @@ _**Demographics of one sample zip-code:**_
 ### Airbnb's in Fordham: 
 
 ![Image](https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png)
+<iframe src="https://github.com/jessicalrsparacio/fordhamproj/blob/gh-pages/nycMap.html"> </iframe>
 
