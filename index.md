@@ -1,12 +1,60 @@
 ## Welcome to Fordham 
 
-You can use the [editor on GitHub](https://github.com/jessicalrsparacio/fordhamproj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Fordham is a neighborhood in
+the Bronx. This neighborhood contains the zip-codes 10453,
+10457, 10458, 10468 and 10469. Fordham is roughly bordered
+by East 196th Street to the north, Webster Avenue to the east,
+Burnside Avenue to the south, and Jerome Avenue to the west.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Demographics
 
-### Markdown
+_**Demographics of two sample zip-codes:**_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**ZCTA5 10453**
+Population: 79,606
+Median Age: 30.4 years
+Racial breakdown:
+1.18% white
+27.41% Black
+.06% AIAN
+1.31% Asain
+0% NHPI
+.17% Other
+.71% Two+
+69.15% Hispanic
+Number of Housing units:
+28,530
+95.57% occupied,
+4.43% vacant
+House Value: $427,200
+Housing Unit Structure:
+Single unit: 3.18%
+Multi Unit: 96.32%
+Mobile home: .28%
+Boat, RV, Van: .22%
+
+**ZCTA5 10457**
+Population: 74,554
+Median Age: 29.8 years
+Racial breakdown:
+1.41% white
+29.46% Black
+.12% AIAN
+.91% Asain
+.04% NHPI
+.48% Other
+1.01% Two+
+66.57% Hispanic
+Number of Housing units:
+25,867
+95.23% occupied,
+4.77% vacant
+House Value: $376,600
+Housing Unit Structure:
+Single unit: 4.57%
+Multi Unit: 95.06%
+Mobile home: .11%
+Boat, RV, Van: .24%
 
 ```markdown
 Syntax highlighted code block
