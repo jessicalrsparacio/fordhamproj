@@ -78,11 +78,39 @@ and other local attractions to enjoy.)
 
 ## And... Some Statistics!!
 
-# _When regarding Fordham as a borough in which to rent an Airbnb, it is interesting to visualize some of its qualities._
+### _When regarding Fordham as a borough in which to rent an Airbnb, it is interesting to visualize some of its qualities._
 
 **1. Visualizing Price Distribution**
 
-<img src="Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png">
+<img src="price%20in%20fordham%20real.png">
+
 ```
+This graph helps to visualize the values
+found using the describe funciton.
+Additionally, a box plot provides a
+median, which is helpful because it does
+not take into consideration the outliers
+which are included in the data, and can
+skew the mean. The median price per
+night is approximatley $60/ night, which
+is less than the mean of $69/night. The
+maximum price (not including outliers)
+is $125/night, while the absolute
+maximum is $225/night. Most values
+lean toward the lower end of the price
+points. 
+
+```
+
+**2. Visualizing Room Types**
+
+<img src="room%20in%20fordham%20real.png">
+
+```
+We can see that there is a strong majority of Private Rooms available, followed by entire
+home/apartments, and finally shared rooms.
+
+```
+
 
 
