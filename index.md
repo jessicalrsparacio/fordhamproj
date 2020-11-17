@@ -22,7 +22,7 @@ _**Demographics of one sample zip-code:**_
 - 1.41% white
 - 29.46% Black
 - .12% AIAN
-- .91% Asain
+- .91% Asian
 - .04% NHPI
 - .48% Other
 - 1.01% Two+
