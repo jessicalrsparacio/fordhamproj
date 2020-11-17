@@ -1,4 +1,4 @@
-## Welcome to Fordham 
+# Welcome to Fordham 
 
 ```
 Fordham is a neighborhood in
@@ -8,7 +8,7 @@ by East 196th Street to the north, Webster Avenue to the east,
 Burnside Avenue to the south, and Jerome Avenue to the west.
 ```
 
-### Demographics
+## Demographics
 
 _**Demographics of one sample zip-code:**_
 
@@ -47,7 +47,7 @@ _**Demographics of one sample zip-code:**_
 
 <iframe src="nycMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
  
-# How to judge a neighborhood?
+## How to judge a neighborhood?
 
 ```
 When considering a place to book an Airbnb, it's important to consider many of the qualities
