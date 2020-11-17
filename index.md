@@ -119,11 +119,26 @@ Private Rooms available, followed by entire
 home/apartments, and finally shared rooms.
 
 ```
+**3. Visualizing Listing Names**
+
+<img src="names%20in%20ford%20real.png">
+
+```
+I hoped to explore some part of the information we were given for the names
+of the Airbnb listings. I noticed as I scanned the names that many of the Airbnb’s mentioned their location to the Metro-North. I remembered that in HC3**, much of what made an Airbnb desirable was its distance from transportation, so this seemed important. I wanted to see how many names in the dataset mentioned the metro north in their listing. I used metro.value_counts() to create a series which displayed how many listing contained the word “metro” and how many did not:
+
+0.0 49
+1.0 13
+Name: name, dtype: int64
+
+I found that of the 62 listings, 13 mentioned the Metro-North. 
+```
+
 ## Correlational Reasearch
 
 ### _After seeing some trends in price and room types, it is interesting to attempt to find  correlations between price and other factors. We can use scatter plots to draw these conclusions._
 
-**Latitude Vs. Price**
+**- Latitude Vs. Price**
 
 <img src="lat%20and%20line%20in%20ford%20real.png">
 
