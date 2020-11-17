@@ -76,5 +76,13 @@ excluding robbery.)
 3. _Attractions/Activities:_ A- (Reviewers describe a wide variety of parks, restaurants,
 and other local attractions to enjoy.)
 
+## And... Some Statistics!!
+
+# _When regarding Fordham as a borough in which to rent an Airbnb, it is interesting to visualize some of its qualities._
+
+**1. Visualizing Price Distribution**
+
+<img src="Screen%20Shot%202020-11-13%20at%2010.36.20%20AM.png">
+```
 
 
