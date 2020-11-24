@@ -107,4 +107,4 @@ I found that of the 62 listings, 13 mentioned the Metro-North.
 The trendline reveals that there is, in fact, at least a slight positive correlation between price and increasing latitude. This is surprising, because I would think that prices would increase the closer the location is to NYC. It is possible that increasing in latitude does not exactly correspond with moving farther North from the city.
 
 
-Thanks for checking out my neighborhood! [Click here to head back to the Bronx, and choose another neighborhood.] (https://jessicalrsparacio.github.io/TheBronx/#the-breakdown)
+Thanks for checking out my neighborhood! [Click here to head back to the Bronx, and choose another neighborhood](https://jessicalrsparacio.github.io/TheBronx/#the-breakdown)
