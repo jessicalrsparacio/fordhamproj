@@ -8,9 +8,11 @@ bordered by East 196th Street to the north,
 Webster Avenue to the east,Burnside Avenue to 
 the south, and Jerome Avenue to the west.
 ```
-|
 
-## Demographics
+<div style="display:flex; flex-direction: columns;"> 
+
+<div> 
+ Demographics 
 
  _**Demographics of one sample zip-code:**_
 
@@ -40,14 +42,20 @@ the south, and Jerome Avenue to the west.
 - Single unit: 4.57%
 - Multi Unit: 95.06%
 - Mobile home: .11%
-- Boat, RV, Van: .24% |
+- Boat, RV, Van: .24% 
+
+</div>
+
+<div>
 
 ### Airbnbs in Fordham: 
 
 <iframe src="nycMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-|
- 
+</div>
+
+</div>
+
 ## How to judge a neighborhood?
 
 ```
