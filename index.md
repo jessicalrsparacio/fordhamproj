@@ -8,8 +8,8 @@
 
 **ZCTA5 10457**
 
-- Population: 74,554
-- Median Age: 29.8 years
+|Population| 74,554|
+|Median Age| 29.8 years|
 
 1. _Racial breakdown:_                
 - 1.41% white
