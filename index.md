@@ -9,10 +9,7 @@ Webster Avenue to the east,Burnside Avenue to
 the south, and Jerome Avenue to the west.
 ```
 
-<div style="display:flex; flex-direction: columns;"> 
-
-<div> 
- Demographics 
+### Demographics 
 
  _**Demographics of one sample zip-code:**_
 
@@ -21,7 +18,7 @@ the south, and Jerome Avenue to the west.
 - Population: 74,554
 - Median Age: 29.8 years
 
-1. _Racial breakdown:_
+1. _Racial breakdown:_                
 - 1.41% white
 - 29.46% Black
 - .12% AIAN
@@ -44,17 +41,11 @@ the south, and Jerome Avenue to the west.
 - Mobile home: .11%
 - Boat, RV, Van: .24% 
 
-</div>
-
-<div>
 
 ### Airbnbs in Fordham: 
 
 <iframe src="nycMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-</div>
-
-</div>
 
 ## How to judge a neighborhood?
 
