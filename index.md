@@ -1,6 +1,6 @@
 # Welcome to _FORDHAM_
 
-#### Fordham is a neighborhood in the Bronx. This neighborhood contains the zip-codes 10453, 10457, 10458, 10468 and 10469. Fordham is roughly bordered by East 196th Street to the north, Webster Avenue to the east,Burnside Avenue to the south, and Jerome Avenue to the west.
+> Fordham is a neighborhood in the Bronx. This neighborhood contains the zip-codes 10453, 10457, 10458, 10468 and 10469. Fordham is roughly bordered by East 196th Street to the north, Webster Avenue to the east,Burnside Avenue to the south, and Jerome Avenue to the west.
 
 ### Demographics 
 
