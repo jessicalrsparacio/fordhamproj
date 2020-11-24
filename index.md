@@ -107,7 +107,7 @@ I found that of the 62 listings, 13 mentioned the Metro-North.
 
 ## Correlational Reasearch
 
-### _After seeing some trends in price and room types, it is interesting to attempt to find  correlations between price and other factors. We can use scatter plots to draw these conclusions._
+> After seeing some trends in price and room types, it is interesting to attempt to find  correlations between price and other factors. We can use scatter plots to draw these conclusions.
 
 **- Latitude Vs. Price**
 
