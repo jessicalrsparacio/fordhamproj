@@ -8,32 +8,26 @@
 
 **ZCTA5 10457**
 
-|Population| 74,554|
-|Median Age| 29.8 years|
-
-1. _Racial breakdown:_                
-- 1.41% white
-- 29.46% Black
-- .12% AIAN
-- .91% Asian
-- .04% NHPI
-- .48% Other
-- 1.01% Two+
-- 66.57% Hispanic
-
-2. _Number of Housing units:_
-- 25,867
-- 95.23% occupied,
-- 4.77% vacant
-
-3. _House Value: $376,600_
-
-4. _Housing Unit Structure:_
-- Single unit: 4.57%
-- Multi Unit: 95.06%
-- Mobile home: .11%
-- Boat, RV, Van: .24% 
-
+| ZCTA5 10457              |                  |          |
+|--------------------------|------------------|----------|
+| _Population:_              | 74,554           |          |
+| _Median Age:_             | 29.8 Years       |          |
+| _Racial Breakdown:_      | 1.41%            | white    |
+|                          | 29.46%           | Black    |
+|                          | .12%             | AIAN     |
+|                          | .91%             | Asian    |
+|                          | .04%             | NHPI     |
+|                          | .48%             | Other    |
+|                          | 1.01%            | Two+     |
+|                          | 66.57%           | Hispanic |
+| _Number of Housing units:_ | 25,867           |          |
+|                          | 95.23% occupied, |          |
+|                          | 4.77% vacant     |          |
+| _House Value:_             | $376,600         |          |
+| _Housing Unit Structure:_ | Single unit      | 4.57%    |
+|                          | Multi Unit       | 95.06%   |
+|                          | Mobile home      | .11%     |
+|                          | Boat, RV, Van    | .24%     |
 
 ### Airbnbs in Fordham: 
 
