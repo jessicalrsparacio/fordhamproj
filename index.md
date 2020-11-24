@@ -12,7 +12,7 @@
 |--------------------------|------------------|----------|
 | _Population:_              | 74,554           |          |
 | _Median Age:_             | 29.8 Years       |          |
-| _Racial Breakdown:_      | 1.41%            | white    |
+| _Racial Breakdown:_      | 1.41%            | White    |
 |                          | 29.46%           | Black    |
 |                          | .12%             | AIAN     |
 |                          | .91%             | Asian    |
@@ -21,8 +21,8 @@
 |                          | 1.01%            | Two+     |
 |                          | 66.57%           | Hispanic |
 | _Number of Housing units:_ | 25,867           |          |
-|                          | 95.23% occupied, |          |
-|                          | 4.77% vacant     |          |
+|                          | 95.23%  |  (occupied)       |
+|                          | 4.77%     | (vacant)          |
 | _House Value:_             | $376,600         |          |
 | _Housing Unit Structure:_ | Single unit      | 4.57%    |
 |                          | Multi Unit       | 95.06%   |
